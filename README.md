@@ -2,9 +2,6 @@
 
 > Transform any CSV file into a beautiful interactive analytics dashboard in seconds.
 
-<p align="center">
-  <img src="./assets/dashboard-banner.png" alt="CSV Dashboard Studio Banner" width="100%" />
-</p>
 
 ---
 
@@ -30,6 +27,27 @@ Built for:
 - Startups
 - Hackathons
 - Business intelligence workflows
+
+---
+# 🖼️ Project Preview
+
+---
+
+## 🏠 Main Dashboard
+
+![Main Dashboard](./images/Preview-1.png)
+
+---
+
+## 📈 Analytics & Rolling Average
+
+![Analytics Dashboard](./images/Preview-2.png)
+
+---
+
+## 📊 Smart Visualizations
+
+![Charts Dashboard](./images/Preview-3.png)
 
 ---
 
@@ -80,28 +98,6 @@ Generates multiple chart types automatically:
 - Real-time updates
 - Smooth interactions
 - Professional dashboard experience
-
----
-
-# 🖼️ Project Preview
-
----
-
-## 🏠 Main Dashboard
-
-![Main Dashboard](./images/Preview-1.png)
-
----
-
-## 📈 Analytics & Rolling Average
-
-![Analytics Dashboard](./images/Preview-2.png)
-
----
-
-## 📊 Smart Visualizations
-
-![Charts Dashboard](./images/Preview-3.png)
 
 ---
 
