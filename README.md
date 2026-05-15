@@ -233,22 +233,7 @@ Contributions are welcome!
 
 ```bash
 Fork → Clone → Create Branch → Commit → Push → Pull Request
-```
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-# 👨‍💻 Author
-
-## Akash Wakade
-
-- GitHub: https://github.com/Akash-Wakade-7008-alt
-- LinkedIn: https://linkedin.com
+``` 
 
 ---
 
