@@ -23,6 +23,7 @@ Upload a CSV file and instantly generate:
 - 📋 Auto-generated insights
 
 Built for:
+
 - Developers
 - Data analysts
 - Students
@@ -35,12 +36,15 @@ Built for:
 # ✨ Features
 
 ## 📂 CSV Upload Engine
+
 - Drag & drop CSV upload
 - Instant parsing
 - Auto-refresh dashboard generation
 
 ## 🧠 Smart Header Inference
+
 Automatically detects:
+
 - Dates
 - Currency
 - Numbers
@@ -50,7 +54,9 @@ Automatically detects:
 - Booleans
 
 ## 📊 Auto Dashboard Generation
+
 Generates multiple chart types automatically:
+
 - Line charts
 - Bar charts
 - Pie charts
@@ -61,6 +67,7 @@ Generates multiple chart types automatically:
 - Box plots
 
 ## 📈 Dataset Analytics
+
 - Completeness analysis
 - Duplicate detection
 - Parse error detection
@@ -68,6 +75,7 @@ Generates multiple chart types automatically:
 - Type distribution
 
 ## ⚡ Fast & Modern UI
+
 - Responsive design
 - Real-time updates
 - Smooth interactions
@@ -81,25 +89,26 @@ Generates multiple chart types automatically:
 
 ## 🏠 Main Dashboard
 
-![Main Dashboard](./assets/dashboard-1.png)
+![Main Dashboard](./images/Preview-1.png)
 
 ---
 
 ## 📈 Analytics & Rolling Average
 
-![Analytics Dashboard](./assets/dashboard-2.png)
+![Analytics Dashboard](./images/Preview-2.png)
 
 ---
 
 ## 📊 Smart Visualizations
 
-![Charts Dashboard](./assets/dashboard-3.png)
+![Charts Dashboard](./images/Preview-3.png)
 
 ---
 
 # 🛠️ Tech Stack
 
 ## Frontend
+
 - React
 - TypeScript
 - Vite
@@ -107,10 +116,12 @@ Generates multiple chart types automatically:
 - Recharts
 
 ## Backend
+
 - Node.js
 - Express.js
 
 ## Other Tools
+
 - CSV Parsing Libraries
 - Data Analytics Utilities
 - JSON Export Engine
@@ -162,12 +173,16 @@ http://localhost:5173
 # 🚀 Deployment
 
 ## Frontend Deployment
+
 Recommended:
+
 - Vercel
 - Netlify
 
 ## Backend Deployment
+
 Recommended:
+
 - Render
 - Railway
 
@@ -211,7 +226,7 @@ Priya,Finance,65000
 ✅ Real-world data visualization workflow  
 ✅ Strong portfolio-grade project  
 ✅ Hackathon ready  
-✅ Resume worthy  
+✅ Resume worthy
 
 ---
 
@@ -233,7 +248,7 @@ Contributions are welcome!
 
 ```bash
 Fork → Clone → Create Branch → Commit → Push → Pull Request
-``` 
+```
 
 ---
 
@@ -243,7 +258,7 @@ If you liked this project:
 
 🌟 Star the repository  
 🍴 Fork the project  
-📢 Share with others  
+📢 Share with others
 
 ---
 
